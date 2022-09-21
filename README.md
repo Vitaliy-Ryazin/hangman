@@ -48,4 +48,4 @@
 
 ## Ссылки
 
-Packagist: <https://packagist.org/packages/Vitaliy-Ryazin/hangman>
+Packagist: <https://packagist.org/packages/rmvit/hangman>
